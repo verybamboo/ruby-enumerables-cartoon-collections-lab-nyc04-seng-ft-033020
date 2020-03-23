@@ -22,7 +22,7 @@ summon_captain_planet(elements)
 
 def long_planeteer_calls(elements)# code an argument here
   # Your code here
-  
+  elements
 end
 
 def find_the_cheese# code an argument here
