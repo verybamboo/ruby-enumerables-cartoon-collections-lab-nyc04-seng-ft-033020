@@ -20,7 +20,7 @@ def summon_captain_planet(elements)
 
 summon_captain_planet(elements)
 
-def long_planeteer_calls()# code an argument here
+def long_planeteer_calls(elements)# code an argument here
   # Your code here
   
 end
