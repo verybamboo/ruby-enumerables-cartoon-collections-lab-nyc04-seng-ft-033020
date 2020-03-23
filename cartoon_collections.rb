@@ -16,12 +16,13 @@ def summon_captain_planet(elements)
   # code an argument here
   # Your code here
   elements.map { |call| call.capitalize + '!' }
-end
+  end
 
 summon_captain_planet(elements)
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls()# code an argument here
   # Your code here
+  
 end
 
 def find_the_cheese# code an argument here
