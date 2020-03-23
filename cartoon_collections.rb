@@ -10,7 +10,7 @@ end
 
 roll_call_dwarves(dwarves)
 
-planets = [""]
+elements = ["earth", "wind", "fire", "water", "heart" ]
 
 def summon_captain_planet()
   # code an argument here
